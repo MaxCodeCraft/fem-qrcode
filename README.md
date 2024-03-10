@@ -16,7 +16,7 @@ This is a screenshot of my solution (./screenshot.jpg)
 ### Links
 
 - Solution URL repo: https://github.com/MaxCodeCraft/fem-qrcode
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://maxcodecraft.github.io/fem-qrcode/
 
 ### Built with
 
