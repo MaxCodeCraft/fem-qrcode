@@ -25,7 +25,12 @@ This is a screenshot of my solution (./screenshot.jpg)
 
 ### What I learned
 
-Here is what I learned during this project using Figma to get the project's sizes of the elements and report them in my CSS file.
+Here is what I learned during this project:
+- Using Figma to get the project's sizes of the elements and report them in my CSS file.
+- Use the calc() function.
+- Center verticaly a block element with the translate() function.
+
+Somewhat I struggle to have the .attribution class centered when I want it at the bottom of the page, any help would be appreciated !
 
 ## Author
 
